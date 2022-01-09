@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.programs;
 
 public class MaximumOccurrenceCharacter {
 	public static final int ASCII_SIZE = 256;
@@ -34,3 +34,4 @@ public class MaximumOccurrenceCharacter {
                             getMaxOccuringChar(str));
 	}
 }
+

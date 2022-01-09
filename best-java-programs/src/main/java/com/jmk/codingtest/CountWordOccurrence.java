@@ -9,7 +9,6 @@ public class CountWordOccurrence {
 		// search for pattern in a
 		int count = 0;
 		for (int i = 0; i < a.length; i++) {
-			// if match found increase count
 			if (word.equals(a[i]))
 				count++;
 		}
@@ -25,3 +24,4 @@ public class CountWordOccurrence {
 	}
 
 }
+

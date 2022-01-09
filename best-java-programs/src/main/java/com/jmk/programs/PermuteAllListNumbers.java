@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.programs;
 
 import java.util.Random;
 import java.util.Scanner;

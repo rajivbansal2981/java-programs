@@ -3,8 +3,7 @@ package com.jmk.codingtest;
 public class FindLongestPalindrome {
 
 	public static void main(String[] args) {
-		System.out.println(longestPalindrome("hiabccbamn"));
-
+		System.out.println(longestPalindrome("hiabccbamn")); //Output : abccba
 	}
 	
 	public static String longestPalindrome(String s) {
@@ -32,3 +31,5 @@ public class FindLongestPalindrome {
 	}
 
 }
+
+

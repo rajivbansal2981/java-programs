@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.string;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -40,3 +40,4 @@ public class DecodingString {
 		System.out.println(returnNthString("a2b2c3", 5));
 	}
 }
+

@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.programs;
 
 /**
  * Cut m and n letters from end of string, then find number of turns to get back

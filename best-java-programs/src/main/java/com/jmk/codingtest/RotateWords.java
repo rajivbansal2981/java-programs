@@ -14,6 +14,7 @@ public class RotateWords {
       String ans = str.substring (d) + str.substring (0, d);
         return ans;
     }
+    
     public static void rotated (String str, int rotated)
     {
       String[]wordsarr = str.split ("\\s"); // convert string to an array of strings.

@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.programs;
 
 public class HCForGCD {
 

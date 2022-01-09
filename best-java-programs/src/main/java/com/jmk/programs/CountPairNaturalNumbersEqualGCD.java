@@ -1,4 +1,4 @@
-package com.jmk.codingtest;
+package com.jmk.programs;
 /**
  * Count pairs of natural numbers with GCD equal to given number
  * 

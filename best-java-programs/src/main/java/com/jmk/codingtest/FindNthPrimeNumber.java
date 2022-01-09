@@ -25,3 +25,8 @@ public class FindNthPrimeNumber {
 		System.out.println("Value of nth prime: " + num);
 	}
 }
+
+//Output:
+//Enter n to compute the nth prime number: 10
+//Value of nth prime: 29
+
